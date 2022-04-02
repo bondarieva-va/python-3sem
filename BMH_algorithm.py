@@ -1,4 +1,4 @@
-
+#Boyer–Moore–Horspool algorithm
 
 def symbol_not_in_substring(symbol, substring):
     return symbol not in substring
